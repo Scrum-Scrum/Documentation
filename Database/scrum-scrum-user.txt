@@ -1,0 +1,14 @@
+Database: `scrum_scrum`
+Table: `ScrumScrumUser`
+Fields:
+  - Required:
+    - email
+    - username
+    - first_name
+    - last_name
+    - password
+
+  - Optional:
+    - Links to personal/professional sites (LinkedIn, GitHub, etc.)
+    - Picture
+    - SSU Major
